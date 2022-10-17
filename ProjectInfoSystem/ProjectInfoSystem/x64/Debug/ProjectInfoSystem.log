@@ -1,0 +1,7 @@
+﻿  Info.cpp
+D:\Visual Studio\SystemProgramming\ProjectInfoSystem\ProjectInfoSystem\Info.cpp(15,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "TCHAR *"
+D:\Visual Studio\SystemProgramming\ProjectInfoSystem\ProjectInfoSystem\Info.cpp(15,12): message : рекомендуется использовать "%ls" в строке форматирования
+D:\Visual Studio\SystemProgramming\ProjectInfoSystem\ProjectInfoSystem\Info.cpp(15,12): message : рекомендуется использовать "%lls" в строке форматирования
+D:\Visual Studio\SystemProgramming\ProjectInfoSystem\ProjectInfoSystem\Info.cpp(15,12): message : рекомендуется использовать "%Ls" в строке форматирования
+D:\Visual Studio\SystemProgramming\ProjectInfoSystem\ProjectInfoSystem\Info.cpp(15,12): message : рекомендуется использовать "%ws" в строке форматирования
+  ProjectInfoSystem.vcxproj -> D:\Visual Studio\SystemProgramming\ProjectInfoSystem\x64\Debug\ProjectInfoSystem.exe
