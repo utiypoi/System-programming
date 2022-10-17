@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(10,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(10,9): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(14,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(14,9): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(17,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(17,9): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "HANDLE"
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(11,21): warning C4101: hThread: неиспользованная локальная переменная
+D:\Visual Studio\SystemProgramming\ProcessesAndThreads\ProcessesAndThreads\Source.cpp(12,8): warning C4101: dwThreadId: неиспользованная локальная переменная
+  ProcessesAndThreads.vcxproj -> D:\Visual Studio\SystemProgramming\ProcessesAndThreads\x64\Debug\ProcessesAndThreads.exe
